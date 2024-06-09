@@ -1,2 +1,2 @@
 # Number_guessing_game
-https://guess-a-number-game-brown.vercel.app/
+https://number-guessing-game-one-sigma.vercel.app/
